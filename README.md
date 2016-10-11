@@ -1,0 +1,2 @@
+# encabezadoDetalle
+encabezadoDetalle
